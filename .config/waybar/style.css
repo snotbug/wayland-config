@@ -1,0 +1,51 @@
+* {
+    font-family: monospace;
+    font-size: 16px;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+tooltip {
+    background: black;
+    border: 1px solid white;
+    border-radius: 0;
+}
+
+.modules-center {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#workspaces button {
+    color: white;
+    background: black;
+    border: none;
+    border-radius: 0px;
+}
+
+#workspaces button.active {
+    color: red;
+}
+
+#workspaces button:hover {
+    box-shadow: none;
+    transition: none;
+}
+
+#battery,
+#backlight,
+#clock,
+#network,
+#pulseaudio,
+#tray,
+#wireplumber {
+    padding: 0 10px;
+    color: white;
+    background: black;
+}
+
+#battery.critical:not(.charging) {
+    color: red;
+}
