@@ -1,4 +1,4 @@
-sudo pacman -Syu adobe-source-han-sans-cn-fonts adobe-source-han-sans-tw-fonts alacritty android-file-transfer android-tools brightnessctl btop fcitx5 fcitx5-configtool fcitx5-rime firefox gimp git godot grim hyprland hyprpaper keepassxc man-db mpv neovim obs-studio pulsemixer pyright ripgrep slurp tesseract tesseract-data-chi_sim tesseract-data-chi_sim_vert tesseract-data-chi_tra tesseract-data-chi_tra_vert ufw unzip waybar wl-clipboard xdg-desktop-portal-hyprland yt-dlp zip
+sudo pacman -Syu adobe-source-han-sans-cn-fonts adobe-source-han-sans-tw-fonts kitty android-file-transfer android-tools brightnessctl btop fcitx5 fcitx5-configtool fcitx5-rime firefox gimp git godot grim hyprland hyprpaper keepassxc man-db mpv neovim obs-studio pulsemixer pyright ripgrep slurp tesseract tesseract-data-chi_sim tesseract-data-chi_sim_vert tesseract-data-chi_tra tesseract-data-chi_tra_vert ufw unzip waybar wl-clipboard xdg-desktop-portal-hyprland yt-dlp zip
 
 mkdir $HOME/Desktop $HOME/Documents $HOME/Downloads/videos $HOME/Downloads/audio $HOME/Downloads/development $HOME/Music $HOME/Pictures/screenshots $HOME/Videos
 
